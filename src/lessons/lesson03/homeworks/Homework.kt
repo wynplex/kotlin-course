@@ -1,4 +1,4 @@
-package lessons.lesson03.homework
+package lessons.lesson03.homeworks
 
 // 1. Название мероприятия (неизменяемая публичная переменная, известная на момент написания)
 val eventName: String = "Monster Hackaton"

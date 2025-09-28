@@ -1,4 +1,4 @@
-package lessons.lesson04.homework
+package lessons.lesson04.homeworks
 
 val v1: Int = 42
 val v2: Long = 98765432123456789L

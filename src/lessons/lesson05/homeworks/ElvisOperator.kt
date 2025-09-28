@@ -1,4 +1,4 @@
-package lessons.lesson05.homework
+package lessons.lesson05.homeworks
 
 fun main() {
 

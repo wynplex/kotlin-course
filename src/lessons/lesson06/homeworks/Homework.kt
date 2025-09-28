@@ -1,4 +1,4 @@
-package lessons.lesson06.homework
+package lessons.lesson06.homeworks
 
 import kotlin.math.floor
 
